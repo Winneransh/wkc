@@ -13,7 +13,7 @@ class GlobalConfig:
     """Global configuration for supply chain optimization"""
 
     # API Configuration
-    GOOGLE_API_KEY = "AIzaSyCPbIA3-rJWEZSZAbMCv0fg7RgadQUa5-I"  # Replace with your API key
+    GOOGLE_API_KEY = ""  # Replace with your API key
     LLM_MODEL = "gemini-2.0-flash"
     LLM_TEMPERATURE = 0.01
 
