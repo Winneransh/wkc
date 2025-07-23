@@ -15,7 +15,7 @@ class DeliveryConfig:
     """Configuration for delivery path optimization"""
     
     # API Configuration
-    GOOGLE_API_KEY = "AIzaSyCPbIA3-rJWEZSZAbMCv0fg7RgadQUa5-I"
+    GOOGLE_API_KEY = ""
     
     # System Configuration
     CURRENT_DATE = datetime.now()
