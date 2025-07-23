@@ -246,7 +246,7 @@ def main():
     Example usage of the two-LLM movie merchandise search system
     """
     # Initialize the system
-    api_key = "AIzaSyCPbIA3-rJWEZSZAbMCv0fg7RgadQUa5-I"
+    api_key = ""
     if not api_key:
         print("❌ Please set GEMINI_API_KEY environment variable")
         return
